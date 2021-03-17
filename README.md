@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<p align="center">
 
 ### Hi there, I'm Tiffany Chieu!
 
@@ -17,4 +17,4 @@ Studying Computer Science and Engineering at UCLA
 <br />
 ![OpenCV](https://img.shields.io/badge/-OpenCV-21262d?logo=opencv)
 
-</div>
+</p>
