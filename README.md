@@ -1,16 +1,20 @@
-### Hi there 👋
+<div style="text-align: center">
 
-<!--
-**tiffany1618/tiffany1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Tiffany Chieu!
 
-Here are some ideas to get you started:
+### About Me
+Studying Computer Science and Engineering at UCLA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+![Rust](https://img.shields.io/badge/-Rust-21262d?logo=rust)
+![Go](https://img.shields.io/badge/-Go-21262d?logo=go)
+![C/C++](https://img.shields.io/badge/-C/C++-21262d?logo=c++)
+![Python](https://img.shields.io/badge/-Python-21262d?logo=python)
+![Java](https://img.shields.io/badge/-Java-21262d?logo=java)
+<br />
+![React](https://img.shields.io/badge/-React-21262d?logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-21262d?logo=flutter)
+<br />
+![OpenCV](https://img.shields.io/badge/-OpenCV-21262d?logo=opencv)
+
+</div>
