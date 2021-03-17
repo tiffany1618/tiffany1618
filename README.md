@@ -1,9 +1,7 @@
-<p align="center">
-
 ### Hi there, I'm Tiffany Chieu!
 
 ### About Me
-Studying Computer Science and Engineering at UCLA
+* Studying Computer Science and Engineering at UCLA
 
 ### Skills
 ![Rust](https://img.shields.io/badge/-Rust-21262d?logo=rust)
@@ -16,5 +14,3 @@ Studying Computer Science and Engineering at UCLA
 ![Flutter](https://img.shields.io/badge/-Flutter-21262d?logo=flutter)
 <br />
 ![OpenCV](https://img.shields.io/badge/-OpenCV-21262d?logo=opencv)
-
-</p>
